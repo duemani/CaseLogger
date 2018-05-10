@@ -1,0 +1,13 @@
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\bin\Debug\CaseLogger.exe
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\bin\Debug\CaseLogger.pdb
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.Form1.resources
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.Properties.Resources.resources
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.exe
+c:\users\duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.pdb
+C:\Users\Duemani\Documents\Visual Studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Duemani\Documents\Visual Studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Duemani\Documents\Visual Studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.csproj.ResolveComReference.cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\bin\Debug\itextsharp.dll
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.csprojResolveAssemblyReference.cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.csproj.GenerateResource.Cache
+C:\Users\Duemani\Documents\Visual Studio 2010\Projects\CaseLogger\CaseLogger\obj\x86\Debug\CaseLogger.Form2.resources

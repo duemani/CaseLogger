@@ -1,0 +1,22 @@
+Chiari:61343:Craniectomy, suboccipital with cervical laminectomy for decompression of medulla and spinal cord, with or without dural graft (eg, Arnold-Chiari malformation)
+DBS:61720:Creation of lesion by stereotactic method, including burr hole(s) and localizing and recording techniques, single or multiple stages; globus pallidus or thalamus
+I&D:10140:Incision and drainage of hematoma, seroma or fluid collection
+lumbar pl fusion:22612:Arthrodesis, posterior or posterolateral technique, single level; lumbar (with lateral transverse technique, when performed)
+ommaya:61215:Insertion of subcutaneous reservoir, pump or continuous infusion system for connection to ventricular catheter
+Pain Pump with lami:62351:Implantation, revision or repositioning of tunneled intrathecal or epidural catheter, for long-term medication administration via an external pump or implantable reservoir/infusion pump; with laminectomy
+ulnar transposition:64718:Neuroplasty and/or transposition; ulnar nerve at elbow
+perc spinal cord stim:63650:Percutaneous implantation of neurostimulator electrode array, epidural
+VNS Battery Exchange:64569:Revision or replacement of cranial nerve (eg, vagus nerve) neurostimulator electrode array, including connection to existing pulse generator
+post fusio:22843:Posterior segmental instrumentation (eg, pedicle fixation, dual rods with multiple hooks and sublaminar wires); 7 to 12 vertebral segments (List separately in addition to code for primary procedure)
+cystoperitoneal shunt:62190:Creation of shunt; subarachnoid/subdural-atrial, -jugular, -auricular
+DBS generator:61888:Revision or removal of cranial neurostimulator pulse generator or receiver
+amgydalohippocampectomy:61566:Craniotomy with elevation of bone flap; for selective amygdalohippocampectomy
+SDH:61312:Craniectomy or craniotomy for evacuation of hematoma, supratentorial; extradural or subdural
+cerebellar abscess:61321:Craniectomy or craniotomy, drainage of intracranial abscess; infratentorial
+spinal cord stimulator:63655:Laminectomy for implantation of neurostimulator electrodes, plate/paddle, epidural
+VP shunt:62223:Creation of shunt; ventriculo-peritoneal, -pleural, other terminus
+Wound Revision:12005:Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 12.6 cm to 20.0 cm
+spinal cord stimulator battery exchange:63685:Insertion or replacement of spinal neurostimulator pulse generator or receiver, direct or inductive coupling
+transphenoidal:62165:Neuroendoscopy, intracranial; with excision of pituitary tumor, transnasal or trans-sphenoidal approach
+transphenoidal:62165:Neuroendoscopy, intracranial; with excision of pituitary tumor, transnasal or trans-sphenoidal approach
+septum pellucidum fenestration:62161:Neuroendoscopy, intracranial; with dissection of adhesions, fenestration of septum pellucidum or intraventricular cysts (including placement, replacement, or removal of ventricular catheter)

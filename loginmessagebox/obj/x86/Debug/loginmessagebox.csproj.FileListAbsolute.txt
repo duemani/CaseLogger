@@ -1,0 +1,9 @@
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\bin\Debug\loginmessagebox.exe
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\bin\Debug\loginmessagebox.pdb
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\loginmessagebox.loginmessagebox.resources
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\loginmessagebox.Properties.Resources.resources
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\loginmessagebox.exe
+C:\Users\Duemani\documents\visual studio 2010\Projects\CaseLogger\loginmessagebox\obj\x86\Debug\loginmessagebox.pdb

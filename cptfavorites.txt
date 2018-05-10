@@ -1,0 +1,100 @@
+22845	
+Anterior instrumentation; 2 to 3 vertebral segments (List separately in addition to code for primary procedure)	
+Adult Spinal - Thoracic/Lumbar Instrum and Fusion	
+Thoracic/lumbar instrumentation and fusion	Remove
+22554	
+Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); cervical below C2	
+Adult Spinal - ACD with Instrumentation	
+Anterior cervical approach for decom/stabilization	Remove
+22585	
+Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); each additional interspace (List separately in addition to code for primary procedure)	
+Adult Spinal - Thoracic/Lumbar Instrum and Fusion	
+Thoracic/lumbar instrumentation and fusion	Remove
+22630	
+Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for decompression), single interspace; lumbar	
+Adult Spinal - Thoracic/Lumbar Instrum and Fusion	
+Thoracic/lumbar instrumentation and fusion	Remove
+22600	
+Arthrodesis, posterior or posterolateral technique, single level; cervical below C2 segment	
+Adult Spinal - C-spine Fracture Op Stabiliz Proc	
+Posterior cervical approach for decom/stabilizatio	Remove
+22614	
+Arthrodesis, posterior or posterolateral technique, single level; each additional vertebral segment (List separately in addition to code for primary procedure)	
+Adult Spinal - Thoracic/Lumbar Instrum and Fusion	
+Thoracic/lumbar instrumentation and fusion	Remove
+22612	
+Arthrodesis, posterior or posterolateral technique, single level; lumbar (with lateral transverse technique, when performed)	
+Adult Spinal - Thoracic/Lumbar Instrum and Fusion	
+Thoracic/lumbar instrumentation and fusion	Remove
+61140	
+Burr hole(s) or trephine; with biopsy of brain or intracranial lesion	
+Adult Craniotomy - Brain Tumor	
+Biopsy	Remove
+61312	
+Craniectomy or craniotomy for evacuation of hematoma, supratentorial; extradural or subdural	
+Adult Craniotomy - Trauma	
+Depressed skull fracture or extra-axial hematoma	Remove
+61510	
+Craniectomy, trephination, bone flap craniotomy; for excision of brain tumor, supratentorial, except meningioma	
+Adult Craniotomy - Brain Tumor	
+Intra-axial	Remove
+61512	
+Craniectomy, trephination, bone flap craniotomy; for excision of meningioma, supratentorial	
+Adult Craniotomy - Brain Tumor	
+Extra-axial	Remove
+62141	
+Cranioplasty for skull defect; larger than 5 cm diameter	
+Adult Craniotomy - Trauma	
+Cranioplasty	Remove
+62223	
+Creation of shunt; ventriculo-peritoneal, -pleural, other terminus	
+Adult VP Shunt (CSF Diversion)	
+VPS	Remove
+64722	
+Decompression; unspecified nerve(s) (specify)	
+Adult Spinal - Peripheral Nerve Procedures	
+Other (peripheral nerve procedures)	Remove
+63075	
+Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace	
+Adult Spinal - ACD with Instrumentation	
+Anterior cervical approach for decom/stabilization	Remove
+63001	
+Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; cervical	
+Adult Spinal - C-spine Fracture Op Stabiliz Proc	
+Posterior cervical approach for decom/stabilizatio	Remove
+63005	
+Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; lumbar, except for spondylolisthesis	
+Adult Spinal - Lumbar Discectomy	
+Lumbar discectomy	Remove
+63015	
+Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; cervical	
+Adult Spinal - C-spine Fracture Op Stabiliz Proc	
+Posterior cervical approach for decom/stabilizatio	Remove
+63045	
+Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical	
+Adult Spinal - C-spine Fracture Op Stabiliz Proc	
+Posterior cervical approach for decom/stabilizatio	Remove
+63048	
+Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; each additional segment, cervical, thoracic, or lumbar (List separately in addition to code for primary procedure)	
+Adult Spinal - Lumbar Discectomy	
+Lumbar discectomy	Remove
+63047	
+Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; lumbar	
+Adult Spinal - Lumbar Discectomy	
+Lumbar discectomy	Remove
+63050	
+Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments;	
+Adult Spinal - C-spine Fracture Op Stabiliz Proc	
+Posterior cervical approach for decom/stabilizatio	Remove
+63030	
+Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, lumbar	
+Adult Spinal - Lumbar Discectomy	
+Lumbar discectomy	Remove
+69990	
+Microsurgical techniques, requiring use of operating microscope (List separately in addition to code for primary procedure)	
+Additional Procedures	
+Miscellaneous/unclassified	Remove
+62165	
+Neuroendoscopy, intracranial; with excision of pituitary tumor, transnasal or trans-sphenoidal approach	
+Adult Cranial-Transphenoidal-Sellar/Parasellar Tum	
+Transphenoidal-sellar/parasellar tumors	Remove
